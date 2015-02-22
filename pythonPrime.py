@@ -22,7 +22,7 @@ def divisible(n, square, num):
 
 startTime = time() * 1000
 
-for x in range (0, 104729):
+for x in range (1, 104729):
     isPrime(x)
 
 endTime = (time() * 1000) - startTime
