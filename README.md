@@ -1,7 +1,12 @@
-# Java-vs-Python
+# Java vs Python
 This is a test to see which language is faster in determining if a number is prime or not.
 
-The code for each file essentially attempts to recursively determine if a number is prime or not. The numbers range from 1 to 104729.
+-----
+
+The code for each file essentially attempts to recursively determine if a number is prime or not.
+* The numbers range from 1 to 104729.
+
+-----
 
 This is the table showing the time in milliseconds it takes for each language to go through the list of numbers;
 
