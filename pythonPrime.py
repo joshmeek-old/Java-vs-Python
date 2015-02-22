@@ -6,7 +6,7 @@ def isPrime(n):
     if(n <= 2):
         return True
 
-    square = sqrt(n)
+    square = sqrt(n) 
 
     return divisible(n, square, 2)
 
